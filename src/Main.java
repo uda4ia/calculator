@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
 
 
-        System.out.println("Умеет работать с целыми числами, как c арабскими от 1 до 10,");
+        System.out.println("Умеет работать с целыми числами и  c арабскими от 1 до 10,");
 
 
         // Считываем строку и удаляем пробелы
